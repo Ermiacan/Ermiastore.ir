@@ -1,1 +1,3 @@
-# Ermiastore.ir
+{
+  "name": "Ermia Store"
+}
